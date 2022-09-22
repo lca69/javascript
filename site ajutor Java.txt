@@ -1,0 +1,12 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+https://caniuse.com/
+https://stackoverflow.com/
+https://www.w3schools.com/js/
+ctrl + shift + / - pentru cometarii
+ctrl + / - pentru comentarii
+doc - comanda pentru html ca sa faca tot head, body,etc
+ctrl+d - pentru a dubla randurile
+myUsername- camelcase, mereu de folosit in javascript cand dai denumire la variabila
+my_username - snake case
+`${..}`- pentru a adauga o variabila in propozitie
